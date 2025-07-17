@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Nindam",
+    "title": "Student",
+    "detail": "React Native Developer"
+  },
+  {
+    "name": "Somchai",
+    "title": "Designer",
+    "detail": "UI/UX Expert"
+  },
+  {
+    "name": "Suchada",
+    "title": "Engineer",
+    "detail": "Full Stack Developer"
+  }
+]
