@@ -1,17 +1,23 @@
 [
   {
-    "name": "Nindam",
-    "title": "Student",
-    "detail": "React Native Developer"
+    "name": "John Doe",
+    "title": "Developer",
+    "phone": "123-456-7890",
+    "email": "john@example.com",
+    "imageUrl": "https://i.postimg.cc/W43cjtmn/OIP.webp"
   },
   {
-    "name": "Somchai",
+    "name": "Jane Smith",
     "title": "Designer",
-    "detail": "UI/UX Expert"
+    "phone": "987-654-3210",
+    "email": "jane@example.com",
+    "imageUrl": "https://i.postimg.cc/RhwjGt9M/R.gif"
   },
   {
-    "name": "Suchada",
-    "title": "Engineer",
-    "detail": "Full Stack Developer"
+    "name": "Bob Lee",
+    "title": "Manager",
+    "phone": "555-555-5555",
+    "email": "bob@example.com",
+    "imageUrl": "https://i.postimg.cc/vHsRT0LD/hinh-anh-superman-hoat-hinh-103853011.jpg"
   }
 ]
